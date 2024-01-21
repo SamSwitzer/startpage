@@ -2,7 +2,7 @@
 Lightweight minimal startpage for Firefox and Chrome. Comes with a date, clock, links, and snow!
 Made with html, css, and js. 
 
-IMAGE
+<img src="/example.gif"></img>
 
 # Usage
 ### Download
