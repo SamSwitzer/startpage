@@ -1,0 +1,16 @@
+html, body {
+  	margin: 0;
+  	padding: 0;
+  	background-color: #1e2124;
+  
+}
+
+h1, p, a {
+	font-family: arial;
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #99aab5;
+}

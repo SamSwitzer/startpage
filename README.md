@@ -24,7 +24,7 @@ IMAGE
 
   **Snow:**
   
-  Open `start.html` and un-comment the `snow.js` script at the top.
+  Open `start.html` and comment/un-comment the `snow.js` script at the top.
   
    Off: 
   
